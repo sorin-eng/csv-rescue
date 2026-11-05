@@ -1,0 +1,5 @@
+lead_id;name;email;source
+0001; Ada Demo ;ada@example.invalid; web 
+0002;Lin Sample;lin@example.invalid;web
+0002;Lin Sample;lin@example.invalid;web
+0003;Sam Test;; webinar

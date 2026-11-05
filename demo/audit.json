@@ -1,0 +1,21 @@
+{
+  "ok": true,
+  "mode": "audit",
+  "source_sha256": "38963c7024052e6dcc2b6d33e22bb7d25f78327f0318554576b970c2055692bb",
+  "rows": 4,
+  "columns": [
+    "lead_id",
+    "name",
+    "email",
+    "source"
+  ],
+  "delimiter": ";",
+  "issues": {
+    "exact_duplicate_rows": 1,
+    "blank_cells": 1,
+    "whitespace_cells": 3,
+    "formula_like_cells": 0
+  },
+  "trimmed_cells": 0,
+  "removed_rows": 0
+}

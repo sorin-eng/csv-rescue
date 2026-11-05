@@ -1,0 +1,24 @@
+{
+  "ok": true,
+  "mode": "clean",
+  "source_sha256": "38963c7024052e6dcc2b6d33e22bb7d25f78327f0318554576b970c2055692bb",
+  "rows": 4,
+  "columns": [
+    "lead_id",
+    "name",
+    "email",
+    "source"
+  ],
+  "delimiter": ";",
+  "issues": {
+    "exact_duplicate_rows": 1,
+    "blank_cells": 1,
+    "whitespace_cells": 3,
+    "formula_like_cells": 0
+  },
+  "trimmed_cells": 3,
+  "removed_rows": 1,
+  "output_rows": 3,
+  "output_sha256": "cd48f44de037c8ab245da6f9e1046ab54500d28a171144b4ba0f401be3e42244",
+  "output_delimiter": ","
+}
